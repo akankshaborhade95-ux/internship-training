@@ -5,6 +5,9 @@ import SimpleForm from "./component/hooks-practice/SimpleForm";
 import TitleCounter from "./component/hooks-practice/TitleCounter";
 import Clock from "./component/hooks-practice/Clock";
 import WindowWidth from "./component/hooks-practice/WindowWidth";
+import UserSearch from "./component/hooks-practice/UserSearch";
+
+
 function App() {
   return (
     <>
@@ -15,6 +18,7 @@ function App() {
       <TitleCounter />
       <Clock />
       <WindowWidth />
+      <UserSearch/>
     </>
   );
 }

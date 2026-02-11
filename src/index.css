@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background: linear-gradient(135deg, #94979c, #4b4c4f);
+  background: linear-gradient(135deg, #bbc7dc, #8cc6bb);
   padding: 30px;
 }
 
@@ -13,4 +13,41 @@ body {
 }
 button {
   margin: 5px;
+}
+/* Task 1  */
+.component {
+  background: rgb(150, 137, 137);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(198, 232, 245, 0.1);
+}
+
+/* Task 2  */
+.effect-box {
+  background: #b7cde9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+/* Task 3  */
+.project-box {
+  background: #92d5a9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+/* Task 4*/
+.ref-box {
+  background: #fef3c7;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 10px;
 }
