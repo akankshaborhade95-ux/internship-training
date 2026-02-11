@@ -1,7 +1,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #c7c088;
+  background-color: #bab175;
   padding: 30px;
   margin: 0;
   color: #ae7171;
@@ -17,19 +17,19 @@ body {
 }
 /* Task 1 – Counter */
 .component {
-  background-color: #eef2ff;   /* soft blue */
+  background-color: #eef2ff;
 }
 /* Task 2 – useEffect */
 .effect-box {
-  background-color: #ecfdf5;   /* soft green */
+  background-color: #ecfdf5;
 }
 /* Task 3 – Project */
 .project-box {
-  background-color: #fff7ed;   /* soft orange */
+  background-color: #fff7ed; 
 }
 /* Task 4 – useRef */
 .ref-box {
-  background-color: #f5f3ff;   /* soft purple */
+  background-color: #f5f3ff;
 }
 h2 {
   margin-top: 0;
