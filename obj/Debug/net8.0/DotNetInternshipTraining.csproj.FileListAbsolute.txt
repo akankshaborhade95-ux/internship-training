@@ -31,3 +31,4 @@ C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\refint\DotNet
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.pdb
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.genruntimeconfig.cache
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\ref\DotNetInternshipTraining.dll
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.sourcelink.json
