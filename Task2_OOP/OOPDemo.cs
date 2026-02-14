@@ -1,6 +1,6 @@
 using System;
 
-namespace DotNetInternshipTraining.Task2_OOP
+namespace DotNetInternshipTraining
 {
 
     // Every person has Name and Age
@@ -52,9 +52,6 @@ namespace DotNetInternshipTraining.Task2_OOP
             Console.WriteLine("Department: " + Department);
         }
     }
-
-
-
     // Demo class to run the example
     public class OOPDemo
     {

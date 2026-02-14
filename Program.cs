@@ -1,19 +1,20 @@
 using System;
-using DotNetInternshipTraining.Task2_OOP;
 
-class Program
+namespace DotNetInternshipTraining
 {
-    static void Main(string[] args)
+    class Project
     {
-        Console.WriteLine("Starting Application...\n");
+        static void Main()
+        {
+            OOPDemo oop = new OOPDemo();
+            oop.Run();
 
-        // create object of OOPDemo
-        OOPDemo demo = new OOPDemo();
+            Console.WriteLine("\n----------------------\n");
 
-        // run task 2
-        demo.Run();
+            CollectionsDemo collections = new CollectionsDemo();
+            collections.Run();
 
-        Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
+            Console.ReadKey();
+        }
     }
 }

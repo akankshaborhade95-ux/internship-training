@@ -1,11 +1,3 @@
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.csproj.AssemblyReference.cache
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.AssemblyInfoInputs.cache
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.AssemblyInfo.cs
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.csproj.CoreCompileInputs.cache
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.sourcelink.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\appsettings.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\DotNetInternshipTraining.exe
@@ -18,6 +10,14 @@ C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\Microsoft.Ope
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\vivek\Documents\DotNetInternshipTraining\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.csproj.AssemblyReference.cache
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.AssemblyInfoInputs.cache
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.AssemblyInfo.cs
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\DotNetInternshipTraining.sourcelink.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\vivek\Documents\DotNetInternshipTraining\obj\Debug\net8.0\staticwebassets\msbuild.DotNetInternshipTraining.Microsoft.AspNetCore.StaticWebAssets.props
