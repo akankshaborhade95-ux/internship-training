@@ -14,6 +14,7 @@ class Program
         new Task4_DTO().Run();
         new Task5_Service().Run();
         new Task6_CommonTypes().Run();
+        new Task7_ExceptionHandling().Run();
         Console.WriteLine("\nAll Tasks Completed Successfully");
     }
 }
