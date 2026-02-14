@@ -12,8 +12,8 @@ class Program
         new OOPDemo().Run();
         new Task3_Collections().Run();
         new Task4_DTO().Run();
-        new Task5_Service().Run();   // ✅ NEW
-
+        new Task5_Service().Run();
+        new Task6_CommonTypes().Run();
         Console.WriteLine("\nAll Tasks Completed Successfully");
     }
 }
