@@ -15,6 +15,7 @@ class Program
         new Task5_Service().Run();
         new Task6_CommonTypes().Run();
         new Task7_ExceptionHandling().Run();
+        new Task8_LINQ().Run();
         Console.WriteLine("\nAll Tasks Completed Successfully");
     }
 }
