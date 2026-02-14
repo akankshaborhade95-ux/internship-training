@@ -16,6 +16,7 @@ class Program
         new Task6_CommonTypes().Run();
         new Task7_ExceptionHandling().Run();
         new Task8_LINQ().Run();
+        new Task9_WebAPI().Run();
         Console.WriteLine("\nAll Tasks Completed Successfully");
     }
 }
