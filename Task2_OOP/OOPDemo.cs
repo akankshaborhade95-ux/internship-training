@@ -60,7 +60,7 @@ namespace DotNetInternshipTraining.Task2_OOP
     {
         public void Run()
         {
-            Console.WriteLine("=== Task 2 : OOP Real World Example ===\n");
+            Console.WriteLine(" Task 2 : OOPS Example\n");
 
             // creating object (real employee in company)
             Employee emp = new Employee("Akanksha", 21, "Full stack Developer");
