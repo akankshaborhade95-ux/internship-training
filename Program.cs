@@ -13,6 +13,8 @@ namespace DotNetInternshipTraining
 
             CollectionsDemo collections = new CollectionsDemo();
             collections.Run();
+            Task4_Collections demo = new Task4_Collections(); 
+               demo.Run();
 
             Console.ReadKey();
         }

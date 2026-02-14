@@ -36,7 +36,7 @@ namespace DotNetInternshipTraining
             Dictionary<int, string> empDict = new Dictionary<int, string>();
 
             empDict.Add(101, "Akanksha");
-            empDict.Add(102, "Tanya");
+            empDict.Add(102, "");
 
             Console.WriteLine("\nDictionary Employees:");
             foreach (var item in empDict)
