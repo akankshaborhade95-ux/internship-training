@@ -1,8 +1,8 @@
 using System;
 
-namespace DotNetInternshipTraining.Task1_Basics
+namespace DotNetInternshipTraining
 {
-    public class BasicsDemo
+    public class Task1_Basics
     {
         public void Run()
         {

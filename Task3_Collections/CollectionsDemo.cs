@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DotNetInternshipTraining
 {
-    public class CollectionsDemo
+    public class Task3_Collections
     {
         public void Run()
         {

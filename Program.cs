@@ -1,22 +1,19 @@
 using System;
 
-namespace DotNetInternshipTraining
+namespace DotNetInternshipTraining;
+
+class Program
 {
-    class Project
+    static void Main()
     {
-        static void Main()
-        {
-            OOPDemo oop = new OOPDemo();
-            oop.Run();
+        Console.WriteLine(" DOTNET INTERNSHIP TRAINING");
 
-            Console.WriteLine("\n----------------------\n");
+        new Task1_Basics().Run();
+        new OOPDemo().Run();
+        new Task3_Collections().Run();
+        new Task4_DTO().Run();
+        new Task5_Service().Run();   // ✅ NEW
 
-            CollectionsDemo collections = new CollectionsDemo();
-            collections.Run();
-            Task4_Collections demo = new Task4_Collections(); 
-               demo.Run();
-
-            Console.ReadKey();
-        }
+        Console.WriteLine("\nAll Tasks Completed Successfully");
     }
 }
