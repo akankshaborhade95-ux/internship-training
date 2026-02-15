@@ -13,7 +13,7 @@ public class Task8_LINQ
         {
             new Studentt { Name = "sarita", Age = 22, Department = "IT" },
             new Studentt { Name = "Anita", Age = 20, Department = "CS" },
-            new Studentt { Name = "Rutuja", Age = 23, Department = "IT" },
+            new Studentt { Name = "Rutuja", Age = 23, Department = "Robotics" },
             new Studentt { Name = "Priya", Age = 21, Department = "CS" }
         };
 
@@ -44,7 +44,6 @@ public class Task8_LINQ
                 Console.WriteLine("  " + s.Name);
         }
 
-        //  FirstOrDefault
         var firstIT = students.FirstOrDefault(s => s.Department == "IT");
         Console.WriteLine("\nFirst IT student: " + firstIT?.Name);
         // Join

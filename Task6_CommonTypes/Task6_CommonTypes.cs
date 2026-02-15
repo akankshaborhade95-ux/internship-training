@@ -9,23 +9,18 @@ public class Task6_CommonTypes
     {
         Console.WriteLine("\n Task 6");
 
-        // 1. DTO → data transfer
         StudentDTO studentDTO = new StudentDTO { Name = "Akanksha", Age = 21 };
         Console.WriteLine("DTO: " + studentDTO.Name + " - " + studentDTO.Age);
-
-        // 2. Entity → database object
+        
         StudentEntity studentEntity = new StudentEntity { Id = 1, Name = "Tanya", Age = 23 };
         Console.WriteLine("Entity: " + studentEntity.Id + " - " + studentEntity.Name);
 
-        // 3. POCO class → simple object
         Personn person = new Personn { Name = "Anita", Age = 21 };
         Console.WriteLine("POCO: " + person.Name + " - " + person.Age);
 
-        // 4. Record → immutable
         StudentRecord record = new StudentRecord("Amit", 24);
         Console.WriteLine("Record: " + record.Name + " - " + record.Age);
 
-        // 5. ApiResponse<T> → standard response
         ApiResponse<StudentDTO> response = new ApiResponse<StudentDTO>
         {
             Data = studentDTO,
@@ -34,7 +29,6 @@ public class Task6_CommonTypes
         };
         Console.WriteLine("ApiResponse: " + response.Data.Name + " - " + response.Message);
 
-        // 6. Pagination model
         PaginationModel<int> page = new PaginationModel<int>
         {
             Items = new List<int> { 1, 2, 3 },

@@ -7,8 +7,7 @@ public class Task7_ExceptionHandling
     public void Run()
     {
         Console.WriteLine("\n Task 7");
-
-        // 1. try / catch / finally
+        
         try
         {
             Console.WriteLine("Enter a number to divide 100:");
@@ -41,7 +40,6 @@ public class Task7_ExceptionHandling
             Console.WriteLine("Custom Exception: " + ex.Message);
         }
     }
-    // Method that throws a exception
     void CheckAge(int age)
     {
         if (age < 18)

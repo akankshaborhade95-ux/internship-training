@@ -7,12 +7,12 @@ namespace DotNetInternshipTraining
         public void Run()
         {
             Console.WriteLine("===== TASK 1: C# BASICS =====\n");
-            // 1. Variables
+            //Variables
             int age = 25;
             string name = "Akanksha";
             bool isStudent = true;
             Console.WriteLine($"Name: {name}, Age: {age}, Student: {isStudent}\n");
-            // 2. Operators
+            // Operators
             int a = 10, b = 3;
             Console.WriteLine("Operators:");
             Console.WriteLine($"{a} + {b} = {a + b}");
@@ -20,26 +20,24 @@ namespace DotNetInternshipTraining
             Console.WriteLine($"{a} * {b} = {a * b}");
             Console.WriteLine($"{a} / {b} = {a / b}");
             Console.WriteLine($"{a} % {b} = {a % b}\n");
-
-            // 3. Arrays
+            //Arrays
             int[] numbers = {1,2,3};
             Console.Write("Array: ");
             foreach(var num in numbers)
                 Console.Write(num + " ");
             Console.WriteLine("\n");
-
-            // 4. String
+            // String
             string greeting = "ArthDisha Services";
             Console.WriteLine("String Methods:");
             Console.WriteLine("Upper: " + greeting.ToUpper());
             Console.WriteLine("Length: " + greeting.Length + "\n");
-            // 5. Enum
+            // Enum
             Day today = Day.Monday;
             Console.WriteLine("Enum: Today is " + today + "\n");
-            // 6. Nullable
+            // Nullable
             int? nullableInt = null;
             Console.WriteLine("Nullable int: " + nullableInt + "\n");
-            // 7. Value vs Reference Type
+            // Reference Type
             int val1 = 5;
             int val2 = val1;
             val2 = 10;

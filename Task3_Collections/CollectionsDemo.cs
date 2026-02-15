@@ -8,8 +8,7 @@ namespace DotNetInternshipTraining
         public void Run()
         {
             Console.WriteLine("Task 3 : Collection\n");
-
-            // ARRAY (fixed size)
+            // ARRAY
             string[] empArray = { "Akanksha", "Tanya" };
 
             Console.WriteLine("Array Employees:");
@@ -18,8 +17,7 @@ namespace DotNetInternshipTraining
                 Console.WriteLine(name);
             }
 
-            // LIST (dynamic size)
-            // can add/remove anytime
+            // LIST
             List<string> empList = new List<string>();
 
             empList.Add("Neha");
@@ -32,7 +30,7 @@ namespace DotNetInternshipTraining
                 Console.WriteLine(name);
             }
 
-            // DICTIONARY (key-value pair)
+            // DICTIONARY
             Dictionary<int, string> empDict = new Dictionary<int, string>();
 
             empDict.Add(101, "Akanksha");
@@ -43,20 +41,13 @@ namespace DotNetInternshipTraining
             {
                 Console.WriteLine(item.Key + " -> " + item.Value);
             }
-
-
-            // STACK (LIFO)
-            // last added removed first
+            // STACK
             Stack<string> stack = new Stack<string>();
-
             stack.Push("File1");
             stack.Push("File2");
             stack.Push("File3");
-
             Console.WriteLine("\nStack Pop: " + stack.Pop());
-
-            // QUEUE (FIFO)
-            // first added processed first
+            // QUEUE
             Queue<string> queue = new Queue<string>();
             queue.Enqueue("Task1");
             queue.Enqueue("Task2");

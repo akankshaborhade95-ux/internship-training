@@ -13,7 +13,6 @@ public class Task4_DTO
         Console.WriteLine(s.Name + " - " + s.Age);
     }
 }
-
 class Student
 {
     public string Name;

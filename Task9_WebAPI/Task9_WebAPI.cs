@@ -9,8 +9,7 @@ public class Task9_WebAPI
     public void Run()
     {
         Console.WriteLine("\n Task 9- Web API ");
-
-        // Controller simulation
+        
         var controller = new StudentController();
         var students = controller.GetAllStudents();
 
@@ -25,7 +24,6 @@ class StudentDto
     public string Name;
     public int Age;
 }
-
 // Repository
 class StudentRepository
 {

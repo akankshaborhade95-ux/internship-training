@@ -13,15 +13,11 @@ public class SalaryService : ISalaryService
         return basic + bonus;
     }
 }
-
-// Demo class to run task
 public class Task5_Service
 {
     public void Run()
     {
-        Console.WriteLine("\n--- Task 5 : Service Layer ---");
-
-        // create service object
+        Console.WriteLine("\n Task 5 ");
         ISalaryService service = new SalaryService();
 
         int total = service.CalculateTotal(10000, 2000);
